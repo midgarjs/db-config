@@ -1,0 +1,12 @@
+logs
+*.log
+node_modules/
+.history
+.idea/
+.vscode/
+src/tmp/
+src/log/
+src/config/config.prod.js
+src/config/config.dev.js
+
+
